@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: elasticsearch-processor
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: it00012527
+Implementation-Vendor-Id: com.cvte
+Build-Jdk: 1.8.0_211
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
